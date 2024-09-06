@@ -1,0 +1,43 @@
+
+    [
+        {
+            "name" : "iphone",
+            "price" : 20000,
+            "featured": true,
+            "company": "apple"
+
+        },
+        {
+            "name" : "Laptop",
+            "price" : 20000,
+            "company": "dell"
+        },
+        {
+            "name" : "realme x",
+            "price" : 20000,
+            "featured": true,
+            "company": "mi"
+        },
+        {
+            "name" : "iphone",
+            "price" : 20000,
+            "featured": true,
+            "company": "apple"
+        },
+        {
+            "name" : "iphone",
+            "price" : 20000,
+            "company": "apple"
+        },
+        {
+            "name" : "iphone",
+            "price" : 20000,
+            "featured": true,
+            "company": "apple"
+        },
+        {
+            "name" : "iphone",
+            "price" : 20000,
+            "company": "apple"
+        }
+    ]
